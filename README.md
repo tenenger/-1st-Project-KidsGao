@@ -1,3 +1,10 @@
-# KidsGao
- [1st Project] 키즈가오 웹사이트를 클론코딩했습니다.
+# 목표
+HTML, CSS 기술 습득
+
+# 사용한 기술
+Front-end: HTML, CSS<br>
+
+Deployment: Netlify
+
+# 도메인
 https://kidgao.netlify.app
